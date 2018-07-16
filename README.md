@@ -1,2 +1,2 @@
-# Pander
-paokudemo
+# hello-world
+Hello world new project template.
