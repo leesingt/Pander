@@ -129,6 +129,8 @@
     "goldPrefab": {
       "__uuid__": "fc520c9e-e864-4412-b40d-8f2b578ab2bc"
     },
-    "platformPrefab": null
+    "platformPrefab": {
+      "__uuid__": "77e101b6-ff71-40e7-9939-310272a94c5c"
+    }
   }
 ]
