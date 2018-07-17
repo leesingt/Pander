@@ -119,28 +119,16 @@
     "_fitHeight": true
   },
   {
-    "__type__": "cc.Animation",
+    "__type__": "280c3rsZJJKnZ9RqbALVwtK",
     "_name": "",
     "_objFlags": 0,
     "node": {
       "__id__": 2
     },
     "_enabled": true,
-    "_defaultClip": null,
-    "_clips": [
-      {
-        "__uuid__": "1cf3a433-70e2-4efa-a6e1-42ce97bd84f6"
-      },
-      {
-        "__uuid__": "3e98b494-f384-4617-992f-cd81f9059a50"
-      },
-      {
-        "__uuid__": "c4d9a973-c2a9-47d1-9ad0-2b06c834a6bd"
-      },
-      {
-        "__uuid__": "cf1417e5-f568-4f56-9a98-fffa35a651dc"
-      }
-    ],
-    "playOnLoad": false
+    "goldPrefab": {
+      "__uuid__": "fc520c9e-e864-4412-b40d-8f2b578ab2bc"
+    },
+    "platformPrefab": null
   }
 ]
